@@ -1,0 +1,172 @@
+@font-face {
+    font-family: 'Nexa';
+    src: url('../assets/fonts/Nexa\ Bold.otf') format('opentype');
+    src: 
+    url('../assets/fonts/webfontkit-20220519-162523/nexa_bold-webfont.woff')format('woff'),
+    url('../assets/fonts/webfontkit-20220519-162523/nexa_bold-webfont.woff2')format('woff2');
+ font-weight: 900;
+}
+@font-face {
+    font-family: 'Nexalight';
+    src: url(../assets/fonts/Nexa\ Light.otf);
+}
+@font-face {
+    font-family: 'Nexaregular';
+    src: url(../assets/fonts/Nexa\ Regular.otf);
+}
+
+
+.caseStudy2{
+    position:relative;
+    top:80px;
+    display: block;
+    background-image: 
+                    url('../assets/images/banners/salliemae/sallimaeapp-bg.svg');
+                    background-size: 100%;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    
+
+}
+.banner2{
+    
+    overflow: hidden;
+    height: 690px;
+    margin-top: 38px;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.casestudy2Cont1{
+    opacity: 1;
+    box-sizing:border-box;
+    color: linear-gradient(90deg, #0491CE 0%, rgba(0, 0, 0, 0) 100%);
+    display: block;
+    font-size:14px;
+    height:100%;
+    line-height: 20px;
+    margin-bottom: 23px;
+    margin-top:23px;
+    position:relative;
+    text-size-adjust: 100%;
+}
+.csbgdiv1{
+  
+    background-position-x: 50% ;
+    background-position-y: 50% ;
+    background-size: cover;
+    box-sizing: border-box;
+    color:linear-gradient(90deg, #0491CE 0%, rgba(0, 0, 0, 0) 100%);
+    display:block;
+    font-size:14px;
+    height:690px;
+    line-height: 20px;
+    margin-top:30px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-size-adjust: 100%;
+}
+
+.blockdiv2{
+    box-sizing: border-box;
+    opacity: .75;
+    background: linear-gradient(-69deg, #0574A4 , rgba(10, 150, 200, 1) 100%);
+    display: block;
+    font-family:Nexa;
+    font-size: 14px;
+    line-height: 20px;
+    position:relative;
+    text-size-adjust:100%;
+    width: auto;
+    height: 1000px;
+    margin-top:150px;
+
+}
+.cssblock2title1{
+    font-family: 'Nexa';
+    color: #fff;
+    font-size: 2em;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-left: 107px;
+    line-height: 50px;
+    padding-top: 50px;
+}
+
+
+.cssblock2title2{
+    font-size: 2em;
+    font-weight: 600;
+    position: relative;
+    margin-left: 106px;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+    display: inline-block;
+    font-size: 32px;
+    -webkit-transform: scaleX(1.8);
+    transform: scaleX(2);
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+    line-height: 66px;
+    font-family: 'Nexa';
+}
+.cssblocktitle{
+    display: flex;
+    width: 653px;
+    height: 52px;
+    left: 178px;
+    top: 257px;
+    
+    font-family: 'Nexalight';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 26px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;;
+}
+.title2salliemae {
+    font-size: 6em;
+    font-weight: 600;
+    margin-left: 105px;
+    line-height: 115px;
+    color: #FFFFFF;
+    font-family:'Nexalight'
+}
+
+.cssblocktitle1{
+    display: flex;
+    width: 653px;
+height: 52px;
+left: 178px;
+top: 257px;
+
+font-family: 'Nexa';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 26px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.cssblocktitle3{
+    left: 9.27%;
+    right: 59.17%;
+    top: 51.75%;
+    bottom: 41.12%;
+    
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    /* or 111% */
+    
+    margin-left: 110px;
+    color: #FFFFFF;
+    
+}

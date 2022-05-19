@@ -1,0 +1,130 @@
+@font-face {
+    font-family: 'Nexa';
+    src: url('../assets/fonts/Nexa\ Bold.otf') format('opentype');
+    src: 
+    url('../assets/fonts/webfontkit-20220519-162523/nexa_bold-webfont.woff')format('woff'),
+    url('../assets/fonts/webfontkit-20220519-162523/nexa_bold-webfont.woff2')format('woff2');
+ font-weight: 900;
+}
+@font-face {
+    font-family: 'Nexalight';
+    src: url(../assets/fonts/Nexa\ Light.otf);
+}
+@font-face {
+    font-family: 'Nexaregular';
+    src: url(../assets/fonts/Nexa\ Regular.otf);
+}
+
+.caseStudy5{
+    position: relative;
+    top: 80px;
+    display: block;
+    background-image:
+                  url("../assets/images/banners/Legion.png");
+                  background-size: 100%;   
+                  background-repeat: no-repeat;
+                  background-size: cover;
+            
+
+}
+.banner1{
+    opacity: 1;
+    overflow: hidden;
+    height: 690px;
+    margin-top: 30px;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.casestudyCont1{
+   
+box-sizing : border-box;
+
+display: block;
+font-size: 14px;
+height: 100%;
+line-height :20px;
+margin-bottom: 23px;
+margin-top: 23px;
+position: relative;
+text-size-adjust: 100%;
+}
+.csbgdiv1{
+  
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-size: cover;
+    box-sizing: border-box;
+    
+    display: block;
+    font-size: 14px;
+    height: 690px;
+    line-height: 20px;
+    margin-top: 30px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-size-adjust: 100%;
+ }
+    .block5div1{
+        box-sizing: border-box;
+        
+        display: block;
+        font-size : 14px;
+        height: 481px;
+        line-height: 20px;
+        position :relative;
+        text-size-adjust: 100%;
+        padding:100px
+        
+ }
+.cssblocktitle2 {
+    width: 745px;
+    height: 26px;
+    left: 140px;
+    top: 290px;
+    font-family: 'Nexalight';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 26px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    margin-top: 10rem;
+    
+}
+.cssblocktitle1{
+    width: 860px;
+    height: 84px;
+    left: 140px;
+    top: 316px;
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 84px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.cssblocktitle3{
+    inset: 53.75% 54.06% 39.12% 7.29%;
+    font-family: 'Nexalight';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 31px;
+    line-height: 30px;
+    color: rgb(255, 255, 255);
+    margin-top: 2rem;
+}
+.cssblocktitle4{
+    inset: 53.75% 54.06% 39.12% 7.29%;
+    font-family: 'Nexalight';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 31px;
+    line-height: 30px;
+    color: rgb(255, 255, 255);
+}
+
+
+        

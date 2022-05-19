@@ -1,0 +1,138 @@
+@font-face {
+    font-family: 'Nexa';
+    src: url('../assets/fonts/Nexa\ Bold.otf') format('opentype');
+    src: 
+    url('../assets/fonts/webfontkit-20220519-162523/nexa_bold-webfont.woff')format('woff'),
+    url('../assets/fonts/webfontkit-20220519-162523/nexa_bold-webfont.woff2')format('woff2');
+ font-weight: 900;
+}
+@font-face {
+    font-family: 'Nexalight';
+    src: url(../assets/fonts/Nexa\ Light.otf);
+}
+@font-face {
+    font-family: 'Nexaregular';
+    src: url(../assets/fonts/Nexa\ Regular.otf);
+}
+
+.caseStudy7 {
+    position: relative;
+    top: 80px;
+    display: block;
+    background-image:
+                  url("../assets/images/banners/Design.png");
+                  background-size: 100%;   
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                  
+}
+.banner1{
+    
+    overflow: hidden;
+    height: 690px;
+    margin-top: 30px;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:100px
+}
+
+.casestudyCont1{
+ 
+box-sizing : border-box;
+
+display: block;
+font-size: 14px;
+height: 100%;
+line-height :20px;
+margin-bottom: 23px;
+margin-top: 23px;
+position: relative;
+text-size-adjust: 100%;
+}
+
+.csbgdiv1 {
+
+background-position-x: 50%;
+background-position-y: 50%;
+background-size: cover;
+box-sizing: border-box;
+
+display: block;
+font-size: 14px;
+height: 690px;
+line-height: 20px;
+margin-top: 30px;
+overflow-x: hidden;
+overflow-y: hidden;
+text-size-adjust: 100%;
+}
+
+.block8div1 {
+box-sizing: border-box;
+
+display: block;
+font-family :Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-size : 14px;
+height: 481px;
+line-height: 20px;
+position :relative;
+text-size-adjust: 100%;
+padding:100px
+}
+.cssblocktitle2{
+    width: 280px;
+    height: 26px;
+    left: 180px;
+    top: 279px;
+    font-family: 'Nexalight';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 26px;
+    line-height: 26px;
+    letter-spacing: 0.23em;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    margin-left: 0.2rem;
+    margin-top: 7rem;
+}
+.cssblocktitle1{
+    width: 592px;
+    height: 84px;
+    left: 178px;
+    top: 305px;
+    font-family: 'Nexa';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 70px;
+    line-height: 84px;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+}
+.cssblocktitle3{
+    inset: 52.88% 55.73% 40% 9.27%;
+    font-family: 'Nexalight';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 31px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-left: 0.12rem;
+}
+.cssblocktitle4{
+    left: 9.27%;
+    right: 55.73%;
+    top: 52.88%;
+    bottom: 40%;
+    
+    font-family: 'Nexalight';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 31px;
+    /* or 111% */
+    margin-left: 0.12rem;
+    
+    color: #FFFFFF;
+}

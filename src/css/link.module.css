@@ -1,0 +1,19 @@
+.menulink {
+    margin-top: 13px;
+    margin-bottom: 13px;
+    border: 0px none #000;
+    font-size: 32px;
+    margin-bottom: 10px;
+    font-family: Teko, sans-serif;
+    color: #030303;
+    font-style: normal;
+    font-weight: 500;
+    text-transform: uppercase;
+    cursor: crosshair;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    line-height: 2em;
+    display: block;
+    font-weight: bold;
+  }
